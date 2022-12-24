@@ -1,1 +1,5 @@
-# date
+# @makeform/date
+
+## License
+
+MIT
